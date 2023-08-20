@@ -14,6 +14,7 @@ import recipeApp from "../assets/projects/RecipeApp.png";
 import roomHomepage from "../assets/projects/RoomHomepage.png";
 import tictactoe from "../assets/projects/Tictactoe.png";
 import typingSpeed from "../assets/projects/TypingSpeed.png";
+import todoApp from "../assets/projects/TodoApp.png";
 
 const Work = () => {
   return (
@@ -172,6 +173,30 @@ const Work = () => {
                   </button>
                 </a>
                 <a href="https://icyeazy.github.io/IcyEazy-calculator-main-app/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-teal-600 hover:text-white">
+                    Live
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${todoApp})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* {Hover Effects} */}
+            <div className="opacity-0 group-hover:opacity-100 duration-500">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Todo App <br />
+                [HTML/CSS/JS]
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://github.com/IcyEazy/IcyEazy-todo-app.git">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-teal-600 hover:text-white">
+                    Code
+                  </button>
+                </a>
+                <a href="https://icyeazy.github.io/IcyEazy-todo-app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-teal-600 hover:text-white">
                     Live
                   </button>
