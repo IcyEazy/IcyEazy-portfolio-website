@@ -36,20 +36,20 @@ const Skills = () => {
             <p className="my-4">JAVASCRIPT</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 brRad">
-            <img className="w-20 mx-auto" src={ReactImg} alt="ReactImg icon" />
-            <p className="my-4">REACT</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 brRad">
-            <img className="w-20 mx-auto" src={FireBase} alt="Firebase icon" />
-            <p className="my-4">FIREBASE</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 brRad">
             <img className="w-20 mx-auto" src={GitHub} alt="GitHub icon" />
             <p className="my-4">GITHUB</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 brRad">
+            <img className="w-20 mx-auto" src={ReactImg} alt="ReactImg icon" />
+            <p className="my-4">REACT</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 brRad">
             <img className="w-20 mx-auto" src={Tailwind} alt="Tailwind icon" />
             <p className="my-4">TAILWIND</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 brRad">
+            <img className="w-20 mx-auto" src={FireBase} alt="Firebase icon" />
+            <p className="my-4">FIREBASE</p>
           </div>
         </div>
       </div>
