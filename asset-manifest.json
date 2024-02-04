@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IcyEazy-portfolio-website/static/css/main.b97f25bd.css",
-    "main.js": "/IcyEazy-portfolio-website/static/js/main.1918c6de.js",
+    "main.js": "/IcyEazy-portfolio-website/static/js/main.349637e9.js",
     "static/media/StoreApp.png": "/IcyEazy-portfolio-website/static/media/StoreApp.ffa3efbb48f69f4e064b.png",
     "static/media/ADIGUNIsraelCVOtta.pdf": "/IcyEazy-portfolio-website/static/media/ADIGUNIsraelCVOtta.9beeed2909bad476a38c.pdf",
     "static/media/CrowdFunding.png": "/IcyEazy-portfolio-website/static/media/CrowdFunding.49e8927794bb3792b9b6.png",
@@ -11,6 +11,7 @@
     "static/media/EcommercePage.png": "/IcyEazy-portfolio-website/static/media/EcommercePage.2a0508630e307687ac7c.png",
     "static/media/TodoApp.png": "/IcyEazy-portfolio-website/static/media/TodoApp.437b258dc2bed9688fc4.png",
     "static/media/ReactTypeScriptTicTacToe.png": "/IcyEazy-portfolio-website/static/media/ReactTypeScriptTicTacToe.4f42f9e8c7279a121cfa.png",
+    "static/media/Hangman.png": "/IcyEazy-portfolio-website/static/media/Hangman.580e87b476919b7cb614.png",
     "static/media/MediaDashboard.png": "/IcyEazy-portfolio-website/static/media/MediaDashboard.f6833c06c65d02dda0b7.png",
     "static/media/Bookmark.png": "/IcyEazy-portfolio-website/static/media/Bookmark.dbd5fe0248b08fe976cc.png",
     "static/media/URLShortening.png": "/IcyEazy-portfolio-website/static/media/URLShortening.91bb08b51057c1786208.png",
@@ -33,10 +34,10 @@
     "static/media/redux.svg": "/IcyEazy-portfolio-website/static/media/redux.7009b5de06b324cf4876ae5b352973b5.svg",
     "index.html": "/IcyEazy-portfolio-website/index.html",
     "main.b97f25bd.css.map": "/IcyEazy-portfolio-website/static/css/main.b97f25bd.css.map",
-    "main.1918c6de.js.map": "/IcyEazy-portfolio-website/static/js/main.1918c6de.js.map"
+    "main.349637e9.js.map": "/IcyEazy-portfolio-website/static/js/main.349637e9.js.map"
   },
   "entrypoints": [
     "static/css/main.b97f25bd.css",
-    "static/js/main.1918c6de.js"
+    "static/js/main.349637e9.js"
   ]
 }
