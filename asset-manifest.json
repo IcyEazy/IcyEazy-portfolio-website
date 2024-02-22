@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/IcyEazy-portfolio-website/static/css/main.b97f25bd.css",
-    "main.js": "/IcyEazy-portfolio-website/static/js/main.c4ab8def.js",
+    "main.js": "/IcyEazy-portfolio-website/static/js/main.fb82f07c.js",
     "static/media/StoreApp.png": "/IcyEazy-portfolio-website/static/media/StoreApp.ffa3efbb48f69f4e064b.png",
+    "static/media/YouTubeClone.png": "/IcyEazy-portfolio-website/static/media/YouTubeClone.aad3e8fdb60cee553451.png",
     "static/media/ADIGUNIsraelCVOtta.pdf": "/IcyEazy-portfolio-website/static/media/ADIGUNIsraelCVOtta.9beeed2909bad476a38c.pdf",
     "static/media/CrowdFunding.png": "/IcyEazy-portfolio-website/static/media/CrowdFunding.49e8927794bb3792b9b6.png",
     "static/media/IPTracker.png": "/IcyEazy-portfolio-website/static/media/IPTracker.e42af34c34ab3c2c8173.png",
@@ -34,10 +35,10 @@
     "static/media/redux.svg": "/IcyEazy-portfolio-website/static/media/redux.7009b5de06b324cf4876ae5b352973b5.svg",
     "index.html": "/IcyEazy-portfolio-website/index.html",
     "main.b97f25bd.css.map": "/IcyEazy-portfolio-website/static/css/main.b97f25bd.css.map",
-    "main.c4ab8def.js.map": "/IcyEazy-portfolio-website/static/js/main.c4ab8def.js.map"
+    "main.fb82f07c.js.map": "/IcyEazy-portfolio-website/static/js/main.fb82f07c.js.map"
   },
   "entrypoints": [
     "static/css/main.b97f25bd.css",
-    "static/js/main.c4ab8def.js"
+    "static/js/main.fb82f07c.js"
   ]
 }
