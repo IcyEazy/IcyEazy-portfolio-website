@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/IcyEazy-portfolio-website/static/css/main.b97f25bd.css",
-    "main.js": "/IcyEazy-portfolio-website/static/js/main.fb82f07c.js",
+    "main.js": "/IcyEazy-portfolio-website/static/js/main.b1162820.js",
     "static/media/StoreApp.png": "/IcyEazy-portfolio-website/static/media/StoreApp.ffa3efbb48f69f4e064b.png",
+    "static/media/Planet-Tech.png": "/IcyEazy-portfolio-website/static/media/Planet-Tech.005c1725f7d0d1ef9c07.png",
     "static/media/YouTubeClone.png": "/IcyEazy-portfolio-website/static/media/YouTubeClone.aad3e8fdb60cee553451.png",
     "static/media/ADIGUNIsraelCVOtta.pdf": "/IcyEazy-portfolio-website/static/media/ADIGUNIsraelCVOtta.9beeed2909bad476a38c.pdf",
     "static/media/CrowdFunding.png": "/IcyEazy-portfolio-website/static/media/CrowdFunding.49e8927794bb3792b9b6.png",
     "static/media/IPTracker.png": "/IcyEazy-portfolio-website/static/media/IPTracker.e42af34c34ab3c2c8173.png",
     "static/media/RoomHomepage.png": "/IcyEazy-portfolio-website/static/media/RoomHomepage.2bcacc71b682ede6fe0c.png",
     "static/media/RecipeApp.png": "/IcyEazy-portfolio-website/static/media/RecipeApp.83f9d200e151852d8f5a.png",
+    "static/media/NFT_Market.png": "/IcyEazy-portfolio-website/static/media/NFT_Market.f7e6634967f29c510964.png",
     "static/media/EcommercePage.png": "/IcyEazy-portfolio-website/static/media/EcommercePage.2a0508630e307687ac7c.png",
     "static/media/Select.png": "/IcyEazy-portfolio-website/static/media/Select.8495821f7652d7ae6cc5.png",
     "static/media/TodoApp.png": "/IcyEazy-portfolio-website/static/media/TodoApp.437b258dc2bed9688fc4.png",
@@ -32,13 +34,14 @@
     "static/media/css.png": "/IcyEazy-portfolio-website/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/firebase.png": "/IcyEazy-portfolio-website/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/IcyEazy-portfolio-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/next.svg": "/IcyEazy-portfolio-website/static/media/next.4cec2808c5c0af42419033f61d516ffd.svg",
     "static/media/redux.svg": "/IcyEazy-portfolio-website/static/media/redux.7009b5de06b324cf4876ae5b352973b5.svg",
     "index.html": "/IcyEazy-portfolio-website/index.html",
     "main.b97f25bd.css.map": "/IcyEazy-portfolio-website/static/css/main.b97f25bd.css.map",
-    "main.fb82f07c.js.map": "/IcyEazy-portfolio-website/static/js/main.fb82f07c.js.map"
+    "main.b1162820.js.map": "/IcyEazy-portfolio-website/static/js/main.b1162820.js.map"
   },
   "entrypoints": [
     "static/css/main.b97f25bd.css",
-    "static/js/main.fb82f07c.js"
+    "static/js/main.b1162820.js"
   ]
 }
