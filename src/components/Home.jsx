@@ -12,13 +12,15 @@ const Home = () => {
           ADIGUN Israel Collins
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Frontend Developer.
+          I'm a Frontend and React Native Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I'm a Frontend Developer developing myself in building and
-          periodically designing phenomenal digital experiences. Currently, I'm
-          focused on building responsive Frontend web applications using ReactJS
-          and other important web development technologies.
+          I'm a Frontend and React Native Developer developing myself in
+          building and periodically designing phenomenal digital experiences.
+          Currently, I'm focused on building responsive Frontend web
+          applications using React/Nextjs, TypeScript, Redux and other important
+          web development technologies and also Mobile Applications using React
+          Native and other important technologies.
         </p>
         <div>
           <Link to="work" smooth={true} duration={1000}>

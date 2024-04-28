@@ -22,9 +22,12 @@ const Work = () => {
             >
               {/* {Hover Effects} */}
               <div className="opacity-0 group-hover:opacity-100 duration-500">
-                <span className="text-2xl font-bold text-white tracking-wider">
-                  {work.projectName} <br /> {work.technologiesUsed}
-                </span>
+                <p className="text-2xl font-bold text-white tracking-wider">
+                  {work.projectName}
+                </p>
+                <p className="text-2xl font-bold text-white tracking-wider">
+                  {work.technologiesUsed}
+                </p>
                 <div className="pt-8 text-center">
                   <a
                     href={work.codeUrl}
@@ -35,15 +38,17 @@ const Work = () => {
                       Code
                     </button>
                   </a>
-                  <a
-                    href={work.liveUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-teal-600 hover:text-white">
-                      Live
-                    </button>
-                  </a>
+                  {work.liveUrl && (
+                    <a
+                      href={work.liveUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-teal-600 hover:text-white">
+                        Live
+                      </button>
+                    </a>
+                  )}
                 </div>
               </div>
             </div>

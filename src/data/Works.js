@@ -21,6 +21,9 @@ import reactTsSelect from "../assets/projects/Select.png";
 import reactTsYouTubeClone from "../assets/projects/YouTubeClone.png";
 import reactTsPlanetTech from "../assets/projects/Planet-Tech.png";
 import reactTsNftMarket from "../assets/projects/NFT_Market.png";
+import MovieMobileApp from "../assets/projects/MovieMobileApp.png";
+import WeatherMobileApp from "../assets/projects/WeatherMobileApp.png";
+import FoodDeliveryMobileApp from "../assets/projects/FoodDeliveryMobileApp.png";
 
 export const works = [
   {
@@ -211,5 +214,26 @@ export const works = [
     technologiesUsed: "[Vite/React/Typescript/Tailwind]",
     codeUrl: "https://github.com/IcyEazy/nft-market.git",
     liveUrl: "https://icyeazy.github.io/nft-market/",
+  },
+  {
+    id: 24,
+    backgroundImage: MovieMobileApp,
+    projectName: "Movie Mobile App",
+    technologiesUsed: "[React Native/React Navigation/NativeWind/API]",
+    codeUrl: "https://github.com/IcyEazy/react_native-movie_app.git",
+  },
+  {
+    id: 25,
+    backgroundImage: WeatherMobileApp,
+    projectName: "Weather Mobile App",
+    technologiesUsed: "[React Native/React Navigation/NativeWind/API]",
+    codeUrl: "https://github.com/IcyEazy/react_native-weather_app.git",
+  },
+  {
+    id: 26,
+    backgroundImage: FoodDeliveryMobileApp,
+    projectName: "Food Delivery Mobile App",
+    technologiesUsed: "[React Native/React Navigation/NativeWind/Sanity]",
+    codeUrl: "https://github.com/IcyEazy/react_native-food_delivery_app.git",
   },
 ];
