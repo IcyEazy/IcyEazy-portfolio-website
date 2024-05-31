@@ -13,6 +13,8 @@ import Postman from "../assets/postman.png";
 import ReactNative from "../assets/react_native.jpeg";
 import Swagger from "../assets/swagger.png";
 import AWS from "../assets/aws.png";
+import Vitest from "../assets/vitest.png";
+import Jest from "../assets/jest.png";
 
 export const skills = [
   {
@@ -62,13 +64,13 @@ export const skills = [
   },
   {
     id: 10,
-    image: Postman,
-    name: "Postman",
+    image: Vitest,
+    name: "Vitest",
   },
   {
     id: 11,
-    image: Swagger,
-    name: "Swagger",
+    image: Jest,
+    name: "Jest",
   },
   {
     id: 12,
@@ -89,5 +91,15 @@ export const skills = [
     id: 15,
     image: FireBase,
     name: "FireBase",
+  },
+  {
+    id: 16,
+    image: Swagger,
+    name: "Swagger",
+  },
+  {
+    id: 17,
+    image: Postman,
+    name: "Postman",
   },
 ];
