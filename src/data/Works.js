@@ -24,6 +24,7 @@ import reactTsNftMarket from "../assets/projects/NFT_Market.png";
 import MovieMobileApp from "../assets/projects/MovieMobileApp.png";
 import WeatherMobileApp from "../assets/projects/WeatherMobileApp.png";
 import FoodDeliveryMobileApp from "../assets/projects/FoodDeliveryMobileApp.png";
+import FoodRecipeApp from "../assets/projects/food_recipe_app.png";
 
 export const works = [
   {
@@ -219,21 +220,28 @@ export const works = [
     id: 24,
     backgroundImage: MovieMobileApp,
     projectName: "Movie Mobile App",
-    technologiesUsed: "[React Native/React Navigation/NativeWind/API]",
+    technologiesUsed: "[React Native[Expo]/React Navigation/NativeWind/API]",
     codeUrl: "https://github.com/IcyEazy/react_native-movie_app.git",
   },
   {
     id: 25,
     backgroundImage: WeatherMobileApp,
     projectName: "Weather Mobile App",
-    technologiesUsed: "[React Native/React Navigation/NativeWind/API]",
+    technologiesUsed: "[React Native[Expo]/React Navigation/NativeWind/API]",
     codeUrl: "https://github.com/IcyEazy/react_native-weather_app.git",
   },
   {
     id: 26,
     backgroundImage: FoodDeliveryMobileApp,
     projectName: "Food Delivery Mobile App",
-    technologiesUsed: "[React Native/React Navigation/NativeWind/Sanity]",
+    technologiesUsed: "[React Native[Expo]/React Navigation/NativeWind/Sanity]",
     codeUrl: "https://github.com/IcyEazy/react_native-food_delivery_app.git",
+  },
+  {
+    id: 27,
+    backgroundImage: FoodRecipeApp,
+    projectName: "Food Recipe Mobile App",
+    technologiesUsed: "[React Native[Expo]/React Navigation/NativeWind/API]",
+    codeUrl: "https://github.com/IcyEazy/food_recipe_app.git",
   },
 ];
