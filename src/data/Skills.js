@@ -15,6 +15,7 @@ import Swagger from "../assets/swagger.png";
 import AWS from "../assets/aws.png";
 import Vitest from "../assets/vitest.png";
 import Jest from "../assets/jest.png";
+import SCSS from "../assets/SCSS.jpg";
 
 export const skills = [
   {
@@ -59,46 +60,51 @@ export const skills = [
   },
   {
     id: 9,
-    image: Redux,
-    name: "Redux",
+    image: SCSS,
+    name: "SCSS",
   },
   {
     id: 10,
-    image: Vitest,
-    name: "Vitest",
-  },
-  {
-    id: 11,
-    image: Jest,
-    name: "Jest",
-  },
-  {
-    id: 12,
-    image: AWS,
-    name: "AWS",
-  },
-  {
-    id: 13,
-    image: GitHub,
-    name: "GitHub",
-  },
-  {
-    id: 14,
     image: Bootstrap,
     name: "Bootstrap",
   },
   {
+    id: 11,
+    image: Redux,
+    name: "Redux",
+  },
+  {
+    id: 12,
+    image: Vitest,
+    name: "Vitest",
+  },
+  {
+    id: 13,
+    image: Jest,
+    name: "Jest",
+  },
+  {
+    id: 14,
+    image: AWS,
+    name: "AWS",
+  },
+  {
     id: 15,
+    image: GitHub,
+    name: "GitHub",
+  },
+  {
+    id: 16,
     image: FireBase,
     name: "FireBase",
   },
   {
-    id: 16,
+    id: 17,
     image: Swagger,
     name: "Swagger",
   },
   {
-    id: 17,
+    id: 18,
     image: Postman,
     name: "Postman",
   },

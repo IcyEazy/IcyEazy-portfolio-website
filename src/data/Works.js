@@ -25,6 +25,8 @@ import MovieMobileApp from "../assets/projects/MovieMobileApp.png";
 import WeatherMobileApp from "../assets/projects/WeatherMobileApp.png";
 import FoodDeliveryMobileApp from "../assets/projects/FoodDeliveryMobileApp.png";
 import FoodRecipeApp from "../assets/projects/food_recipe_app.png";
+import LendsqrAssessment from "../assets/projects/LendsqrAssessment.png";
+import Kuwiya from "../assets/projects/Kuwiya.png";
 
 export const works = [
   {
@@ -243,5 +245,20 @@ export const works = [
     projectName: "Food Recipe Mobile App",
     technologiesUsed: "[React Native[Expo]/React Navigation/NativeWind/API]",
     codeUrl: "https://github.com/IcyEazy/food_recipe_app.git",
+  },
+  {
+    id: 28,
+    backgroundImage: LendsqrAssessment,
+    projectName: "Lendsqr Assessment",
+    technologiesUsed: "[React/Typescript/SCSS/Redux/Mocky.io API/Jest]",
+    codeUrl: "https://github.com/IcyEazy/lendsqr-fe-test.git",
+    liveUrl: "https://adigun-israel-lendsqr-fe-test.netlify.app/",
+  },
+  {
+    id: 29,
+    backgroundImage: Kuwiya,
+    projectName: "Kuwiya",
+    technologiesUsed: "[React/Tailwind/Redux/API/Vitest]",
+    liveUrl: "https://www.kuwiya.com",
   },
 ];
